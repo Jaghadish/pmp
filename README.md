@@ -97,4 +97,4 @@ All memories stored locally in `~/.pmp/vault/` as JSON-L files:
 
 Apache License 2.0
 
-Copyright 2024 Jaghadish
+Copyright 2026 Jaghadish
